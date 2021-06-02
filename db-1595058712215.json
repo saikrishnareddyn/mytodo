@@ -1,0 +1,51 @@
+{
+  "details": [
+    {
+      "name": "Sai krishna reddy",
+      "email": "saikrishnareedy@gmail.com",
+      "phone": "8019114229",
+      "gender": "Male",
+      "language": [
+        "REACTJS"
+      ],
+      "country": "India",
+      "id": "a2145633-bcb0-4d1c-8442-cedd4e928f32"
+    },
+    {
+      "name": "nalla",
+      "email": "nalla@gmail.com",
+      "phone": "8019114229",
+      "gender": "Male",
+      "language": [
+        "HTML"
+      ],
+      "country": "Australia",
+      "id": "334700f8-f7db-4fc0-80b9-8cf372b692be"
+    },
+    {
+      "name": "ajay",
+      "email": "krishna.ajay@gmail.com",
+      "phone": "9866130529",
+      "gender": "Male",
+      "language": [
+        "HTML",
+        "CSS",
+        "JAVASCRIPT",
+        "REACTJS"
+      ],
+      "country": "Geramny",
+      "id": "c221d162-741e-4ef5-9e9c-d8f5f7219127"
+    },
+    {
+      "name": "asassasasassasasa",
+      "email": "sbdba@gmail.com",
+      "phone": "9999999999",
+      "gender": "Male",
+      "language": [
+        "JAVASCRIPT"
+      ],
+      "country": "India",
+      "id": "021d2e3d-dcb5-440b-b695-e233ae226cbf"
+    }
+  ]
+}

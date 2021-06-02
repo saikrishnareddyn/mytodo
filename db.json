@@ -1,0 +1,29 @@
+{
+  "details": [
+    {
+      "name": "Sai krishna reddy",
+      "email": "nalla@gmail.com",
+      "phone": "8019114229",
+      "gender": "Male",
+      "language": [
+        "HTML",
+        "CSS",
+        "JAVASCRIPT",
+        "REACTJS"
+      ],
+      "country": "India",
+      "id": "9de2bd20-1dba-470c-8667-bcd8b5dd7ded"
+    },
+    {
+      "name": "Nalla Sai Krishna Reddy",
+      "email": "saikrishnareddynalla@gmail.com",
+      "phone": "08019114229",
+      "gender": "Male",
+      "language": [
+        "CSS"
+      ],
+      "country": "India",
+      "id": "8a828e18-4f89-4b24-8f26-9e801f304f0a"
+    }
+  ]
+}
